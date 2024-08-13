@@ -347,9 +347,9 @@
 
 /* MODAL STYLES */
 .confirmation-modal {
-  position: absolute;
+  position: fixed;
   inset: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   z-index: 90000;
   display: flex;
   justify-content: center;
